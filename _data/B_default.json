@@ -1,0 +1,9 @@
+{
+  "contributor": {
+    "handle": "abc"
+  },
+  "permanentPtr" : "#global/B.default",
+  "names": [
+    "Global default"
+  ]
+}

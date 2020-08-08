@@ -1,0 +1,20 @@
+{
+  "name": "Global",
+  "description": "",
+  "bannerUrl": "",
+  "iconUrl": "https://cdn.jsdelivr.net/npm/material-letter-icons@1.0.8/dist/svg/G.svg",
+  "licenses": [
+    {
+      "licenseType": "CC_BY",
+      "linkToLicense": "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
+    }
+  ],
+  "openAcls": [
+    "READ_DATA",
+    "COMMENT"
+  ],
+  "localAutoApproveArguments": true,
+  "personalDataset": false,
+  "subscribedDatasets": [],
+  "tags": []
+}
